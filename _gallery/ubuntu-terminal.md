@@ -1,7 +1,7 @@
 ---
 author: thodoros
 title: ubuntu-terminal
-image-url: images/ubuntu-terminal.png
+image-url: /images/ubuntu-terminal.png
 caption: 'Το τερματικό του Ubuntu αποτελεί μια διεπαφή text και είναι ένα πανίσχυρο εργαλείο, με σημαντικά περισσότερες δυνατότητες από το
 γραφικό περιβάλλον.'
 license-url: 'https://commons.wikimedia.org/wiki/File:Ubuntu-terminal-Screenshot20181112.png'
