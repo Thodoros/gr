@@ -16,4 +16,4 @@ tags:
   Apple Keyboard</a> by Thodoros P. (<a href="https://codepen.io/TeoP">@TeoP</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"> </script>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
