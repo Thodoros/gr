@@ -7,8 +7,8 @@ caption: 'Το τερματικό του Ubuntu αποτελεί μια διεπ
 license-url: 'https://commons.wikimedia.org/wiki/File:Ubuntu-terminal-Screenshot20181112.png'
 license-text: This file is licensed under the Creative Commons Attribution-Share Alike 4.0 International license.
 categories:
-  -terminal
-  -preface
+  - terminal
+  - preface
 tags:
-  -ubuntu
+  - ubuntu
 ---
