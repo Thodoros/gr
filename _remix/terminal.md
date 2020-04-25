@@ -11,7 +11,7 @@ tags:
 
 Διαδραστικό παράδειγμα ενός τερματικού στο οποίο ο χρήστης μπορεί να πληκτρολογήσει και να τρέξει κάποιες εντολές.
 
-Άσκηση: Τρέξτε όλες τις εντολές που είναι διαθέσιμες και προσθέτε έπειτα μία νέα δικιά σας.
+Άσκηση: Τρέξτε όλες τις εντολές που είναι διαθέσιμες και προσθέστε έπειτα μία νέα δικιά σας.
 
 <p class="codepen" data-height="265" data-theme-id="light" data-default-tab="js,result" data-user="sthupukari" data-slug-hash="VYjGpL" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Terminal">
   <span>See the Pen <a href="https://codepen.io/sthupukari/pen/VYjGpL">
